@@ -8,13 +8,13 @@
 🚀 Currently exploring cool AI SaaS ideas and building useful tools!<br><br>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=venkateshsivapragash28&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh2288" />
+  <img src="https://komarev.com/ghpvc/?username=venkateshsivapragash28&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshsivapragash28" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Full Width GIF" width="100%" />
 
 <h2 align="left">⚡ Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh2288&theme=gotham"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=venkateshsivapragash28&theme=gotham"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__v3nkat__)
