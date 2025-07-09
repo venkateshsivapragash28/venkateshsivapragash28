@@ -8,7 +8,7 @@
 🚀 Currently exploring cool AI SaaS ideas and building useful tools!<br><br>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=venkatesh2288&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh2288" />
+  <img src="https://komarev.com/ghpvc/?username=venkateshsivapragash28&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh2288" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Full Width GIF" width="100%" />
