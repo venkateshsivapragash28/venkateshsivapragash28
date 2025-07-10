@@ -38,9 +38,9 @@
 
 <img align="right" src="assets/right-side.gif" alt="Right Side GIF" width="350" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2288&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=venkatesh2288&theme=gotham&hide_border=false&include_all_commits=true&count_private=false"/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=venkatesh2288&theme=gotham&hide_border=false"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshsivapragash28&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=venkateshsivapragash28&theme=gotham&hide_border=false&include_all_commits=true&count_private=false"/><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=venkateshsivapragash28&theme=gotham&hide_border=false"/><br/>
 
 <br clear="both" />
 
